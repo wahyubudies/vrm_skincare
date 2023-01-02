@@ -1,0 +1,62 @@
+{
+    "main_products": [
+        {
+            "id": 0,
+            "name": "COVER [ VRM SKIN CARE ].png"
+        },
+        {
+            "id": 1,
+            "name": "NEW DAY CREAM.png"
+        },
+        {
+            "id": 2,
+            "name": "NEW NIGHT CREAM.png"
+        },
+        {
+            "id": 3,
+            "name": "NEW FACIAL WASH.png"
+        }
+    ],
+    "series": [
+        {
+            "id": 0,
+            "name": "PACKAGE BASIC.png"
+        },
+        {
+            "id": 1,
+            "name": "PACKAGE RADIANT.png"
+        },
+        {
+            "id": 2,
+            "name": "PACKAGE SALMON DNA.png"
+        },
+        {
+            "id": 3,
+            "name": "PACKAGE CERAMIDE.png"
+        }
+    ],
+    "additional": [
+        {
+            "id": 0,
+            "name": "DARK SPOT CREAM.png"
+        },
+        {
+            "id": 1,
+            "name": "ACNE SERIES.png"
+        }
+    ],
+    "slider": [
+        {
+            "id": 0,
+            "name": "COVER 2 [ VRM SKIN CARE ].png"
+        },
+        {
+            "id": 1,
+            "name": "COVER 2 - SLIDE 2 [ VRM SKIN CARE ].png"
+        },
+        {
+            "id": 2,
+            "name": "COVER 2 - SLIDE 3 [ VRM SKIN CARE ].png"
+        }
+    ]
+}
