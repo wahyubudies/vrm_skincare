@@ -23,7 +23,7 @@ const Promo = () => {
                     <p>*Persediaan terbatas</p>
                     <div className="wrap_button">
                         <button>
-                            <a href="https://whatsapp.com" target="_blank">
+                            <a href="https://wa.me/6281805023857" target="_blank">
                                 <img src="./img/icon_wa.png" alt="" />
                                 Whatsapp
                             </a>
