@@ -12,7 +12,7 @@ const Promo = () => {
                 <div className="wrap_text">
                     <h5>HOT PROMO</h5>
                     <p>(5 item + FREE BONUS)</p>
-                    <p className='promo_price'> Rp. 280.000</p>
+                    <p className='promo_price'> Rp. 400.000</p>
                     <p>CUMA <strong>Rp. 250.000</strong></p>
                     <p className='long_text'> 1 Paket kamu sudah mendapatkan
                         serangkaian perawatan wajah Radiant Series :
